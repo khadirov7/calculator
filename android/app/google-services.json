@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "594369178528",
+    "firebase_url": "https://first-project-d184a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "first-project-d184a",
+    "storage_bucket": "first-project-d184a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594369178528:android:8482e18a603e72064492c5",
+        "android_client_info": {
+          "package_name": "com.example.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594369178528-abg1pp5dc1lu2gn85uipublkedrck47v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXuICoV-fugqHGain9h3Mo-MrVypfzCR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594369178528-abg1pp5dc1lu2gn85uipublkedrck47v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "594369178528-2gv9rkarln4gbjneahi8beopvd8kekei.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.calculator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
